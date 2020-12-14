@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/newombat/static/css/main.242e932a.chunk.css",
-    "main.js": "/newombat/static/js/main.bcb37cd1.chunk.js",
-    "main.js.map": "/newombat/static/js/main.bcb37cd1.chunk.js.map",
+    "main.css": "/newombat/static/css/main.6a4e7e92.chunk.css",
+    "main.js": "/newombat/static/js/main.51ee0a35.chunk.js",
+    "main.js.map": "/newombat/static/js/main.51ee0a35.chunk.js.map",
     "runtime-main.js": "/newombat/static/js/runtime-main.4f406a89.js",
     "runtime-main.js.map": "/newombat/static/js/runtime-main.4f406a89.js.map",
     "static/js/2.01c0e2f7.chunk.js": "/newombat/static/js/2.01c0e2f7.chunk.js",
     "static/js/2.01c0e2f7.chunk.js.map": "/newombat/static/js/2.01c0e2f7.chunk.js.map",
     "index.html": "/newombat/index.html",
-    "precache-manifest.3d5f707456b1cfbd8bb96997b8173ea3.js": "/newombat/precache-manifest.3d5f707456b1cfbd8bb96997b8173ea3.js",
+    "precache-manifest.fcd57c53830b0f31c516f745424b2ad6.js": "/newombat/precache-manifest.fcd57c53830b0f31c516f745424b2ad6.js",
     "service-worker.js": "/newombat/service-worker.js",
-    "static/css/main.242e932a.chunk.css.map": "/newombat/static/css/main.242e932a.chunk.css.map",
+    "static/css/main.6a4e7e92.chunk.css.map": "/newombat/static/css/main.6a4e7e92.chunk.css.map",
     "static/js/2.01c0e2f7.chunk.js.LICENSE.txt": "/newombat/static/js/2.01c0e2f7.chunk.js.LICENSE.txt",
     "static/media/Inter.var.woff2": "/newombat/static/media/Inter.var.f065685b.woff2",
     "static/media/app.svg": "/newombat/static/media/app.af3432cb.svg",
@@ -51,7 +51,7 @@
   "entrypoints": [
     "static/js/runtime-main.4f406a89.js",
     "static/js/2.01c0e2f7.chunk.js",
-    "static/css/main.242e932a.chunk.css",
-    "static/js/main.bcb37cd1.chunk.js"
+    "static/css/main.6a4e7e92.chunk.css",
+    "static/js/main.51ee0a35.chunk.js"
   ]
 }
