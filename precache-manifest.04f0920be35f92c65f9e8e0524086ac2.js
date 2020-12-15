@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b193522db4375f22103cb0c43eb2045",
+    "revision": "b4accb84d4d7ab957c8b1a1d9d33676d",
     "url": "/newombat/index.html"
   },
   {
-    "revision": "89569adacfce225b8e23",
-    "url": "/newombat/static/css/main.3cb64ed6.chunk.css"
+    "revision": "868dc34e4747623945d1",
+    "url": "/newombat/static/css/main.94aa4567.chunk.css"
   },
   {
     "revision": "546eab35c9d81434935f",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newombat/static/js/2.01c0e2f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "89569adacfce225b8e23",
+    "revision": "868dc34e4747623945d1",
     "url": "/newombat/static/js/main.560bbfdb.chunk.js"
   },
   {
