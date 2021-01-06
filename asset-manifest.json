@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/newombat/static/css/main.6f78f3a3.chunk.css",
+    "main.css": "/newombat/static/css/main.20d5d44d.chunk.css",
     "main.js": "/newombat/static/js/main.51cd2c81.chunk.js",
     "main.js.map": "/newombat/static/js/main.51cd2c81.chunk.js.map",
     "runtime-main.js": "/newombat/static/js/runtime-main.2e682052.js",
@@ -8,7 +8,7 @@
     "static/js/2.58f9fc89.chunk.js": "/newombat/static/js/2.58f9fc89.chunk.js",
     "static/js/2.58f9fc89.chunk.js.map": "/newombat/static/js/2.58f9fc89.chunk.js.map",
     "index.html": "/newombat/index.html",
-    "static/css/main.6f78f3a3.chunk.css.map": "/newombat/static/css/main.6f78f3a3.chunk.css.map",
+    "static/css/main.20d5d44d.chunk.css.map": "/newombat/static/css/main.20d5d44d.chunk.css.map",
     "static/js/2.58f9fc89.chunk.js.LICENSE.txt": "/newombat/static/js/2.58f9fc89.chunk.js.LICENSE.txt",
     "static/media/Inter.var.woff2": "/newombat/static/media/Inter.var.a738a131.woff2",
     "static/media/app.svg": "/newombat/static/media/app.499091d4.svg",
@@ -49,7 +49,7 @@
   "entrypoints": [
     "static/js/runtime-main.2e682052.js",
     "static/js/2.58f9fc89.chunk.js",
-    "static/css/main.6f78f3a3.chunk.css",
+    "static/css/main.20d5d44d.chunk.css",
     "static/js/main.51cd2c81.chunk.js"
   ]
 }
